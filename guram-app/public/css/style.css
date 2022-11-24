@@ -1,0 +1,12 @@
+body{
+    height: auto;
+    background: rgb(34,45,195);
+    background: linear-gradient(0deg, rgba(34,45,195,1) 0%, rgba(118,45,253,1) 100%);
+    background-repeat: repeat-x;
+}
+body,a{
+    color: #CDBFD9;
+}
+a:hover{
+    color: white;
+}
